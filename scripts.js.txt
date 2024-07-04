@@ -1,0 +1,2 @@
+/* scripts.js */
+// Add any interactivity here if needed
